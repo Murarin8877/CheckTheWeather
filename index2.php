@@ -59,7 +59,7 @@ if(array_key_exists('city',$_GET)){
     html {
            
 			
-			background: url(background.jpeg) no-repeat center center fixed;
+			background: url(../img/background.jpeg) no-repeat center center fixed;
 			-webkit-background-size: cover;
 			-moz-background-size: cover;
 			-o-background-size: cover;
